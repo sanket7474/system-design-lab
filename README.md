@@ -40,6 +40,7 @@ alongside it too, since GitHub can't preview `.excalidraw` files directly.
 
 | Sr No | Topic | Design |
 |-------|-------|--------|
-|       |       |        |
+| 1 | Nearby Friends | [design](Nearby%20Friends/diagrams/design.png) |
+| 2 | Proximity Service | [design](Proximity%20Service/diagrams/design.png) |
 
 Update this table each time a new subject is added.
