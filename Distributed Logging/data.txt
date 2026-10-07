@@ -1,0 +1,35 @@
+{
+  "timeUnixNano": "1791129621123000000",
+  "severityText": "ERROR",
+  "body": {
+    "stringValue": "Payment provider timeout"
+  },
+  "attributes": [
+    {
+      "key": "event.id",
+      "value": {
+        "stringValue": "0199a3c2-7f31-7b42-7e91-92c8d31f4a10"
+      }
+    },
+    {
+      "key": "event.name",
+      "value": {
+        "stringValue": "payment.failed"
+      }
+    },
+    {
+      "key": "error.code",
+      "value": {
+        "stringValue": "PAYMENT_PROVIDER_TIMEOUT"
+      }
+    },
+    {
+      "key": "payment.id",
+      "value": {
+        "stringValue": "pay-847291"
+      }
+    }
+  ],
+  "traceId": "4bf92f3577b34da6a3ce929d0e0e4736",
+  "spanId": "00f067aa0ba902b7"
+}
